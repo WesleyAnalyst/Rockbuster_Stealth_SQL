@@ -1,3 +1,3 @@
 # Rockbuster_Stealth_SQL
-Having been hired as a Data Analyst for Rockbuster Stealth who is competeing with Netflix and Amazon streaming sites, I am to load Rockbuster's data into a RDBMS
-then use SQL to analyze the data and answer questions
+Rockbuster Stealth is a online video streaming service that is trying to compete with Netflix. They want to find out how their sales are doing, where are their customers from, what films are the most popular, and where their most loyal customers live. They want to come up with an idea that will reward customer loyalty to improve retention.
+
