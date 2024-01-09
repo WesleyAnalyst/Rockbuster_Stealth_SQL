@@ -21,4 +21,4 @@ LIMIT 5) AS top_5_customers
 ON A.country = top_5_customers.country
 GROUP BY A.country, top_5_customers
 ORDER BY all_customer_count DESC
-LIMIT 5
+LIMIT 5;
