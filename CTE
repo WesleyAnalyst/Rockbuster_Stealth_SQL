@@ -16,4 +16,4 @@ GROUP BY A.customer_id, first_name, last_name, country, city
 ORDER BY total_amount_paid DESC
 LIMIT 5)
 SELECT(total_amount_paid) AS average_total_amount_paid
- FROM average_total_amount_paid_cte
+ FROM average_total_amount_paid_cte;
