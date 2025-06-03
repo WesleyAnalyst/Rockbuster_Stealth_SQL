@@ -1,4 +1,4 @@
-SQL CTE query
+SQL CTE query 
 Used to find the average amount paid by the top 5 customers in the top 10 cities.
 
 WITH Average_total_amount_paid_cte(customer_id,
