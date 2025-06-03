@@ -1,5 +1,6 @@
 Subquery to find the top 5 countries with the most customers and location of the top customers
 
+
 SELECT DISTINCT (A.country),
 COUNT (DISTINCT D.customer_id) AS all_customer_count,
 COUNT (DISTINCT A.country) AS top_customer_account
